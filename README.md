@@ -46,7 +46,7 @@ technical debt       → fix the foundation
 ## Tools I reach for
 
 **Core:** TypeScript · Node.js · Bun · Go  
-**Also useful:** Rust · Solidity  
+**Also useful:** Python · Rust · Solidity  
 **Systems:** NATS · gRPC · Protocol Buffers · Docker · AWS  
 **Data:** PostgreSQL · MySQL · Redis Stack · SQL · NoSQL  
 **Applied AI:** local inference · LLM APIs · MCP · RAG · vector databases
