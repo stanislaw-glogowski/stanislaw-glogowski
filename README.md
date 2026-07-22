@@ -46,11 +46,11 @@ technical debt       → fix the foundation
 
 ## Tools I reach for
 
-**Core:** TypeScript · Node.js · Bun · Go  
-**Also useful:** Python · Rust · Solidity  
+**Core:** TypeScript · Node.js · Bun · Python · Go  
+**Also useful:** · Rust · Solidity 
 **Systems:** NATS · gRPC · Protocol Buffers · Docker · AWS  
 **Data:** PostgreSQL · MySQL · Redis Stack · SQL · NoSQL  
-**Applied AI:** local inference · LLM APIs · MCP · RAG · vector databases
+**Applied AI:** local inference · LLM APIs · MLX · MCP · RAG · vector databases
 
 The list changes. The preference does not: **simple, fast, resilient systems with every component earning its place.**
 
