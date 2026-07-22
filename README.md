@@ -23,6 +23,7 @@ I care less about technology as identity and more about what can be built from i
 
 | Project | What it explores |
 | --- | --- |
+| [**Henry**](https://github.com/stanislaw-glogowski/henry) | Local, privacy-first voice assistant for Apple Silicon with wake-word detection, speech recognition, MLX language models, Piper TTS, and a terminal UI. |
 | [**Bunito**](https://github.com/bunito-dev) | A modular TypeScript framework for building fast backend applications on Bun without hiding the underlying platform. |
 | [**openwakeword_go**](https://github.com/stanislaw-glogowski/openwakeword_go) | Offline wake-word inference in Go with ONNX Runtime, streaming audio processing, and a Go-first API. |
 | [**PAVI**](https://github.com/stanislaw-glogowski/pavi) | A local, profile-aware voice assistant in Go — wake-word detection, speech transcription, local AI, conversation context, and text-to-speech. |
